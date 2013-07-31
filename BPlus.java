@@ -1,5 +1,6 @@
 /*
  * BPlus Main Application- a simulation of B+ tree
+ * This application was an assignment for Data Structures course, Ben Gurion University, May 2013
  * @author Lidan Hifi
  */
 public class BPlus {
